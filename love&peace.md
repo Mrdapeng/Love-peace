@@ -50,7 +50,7 @@
 * 琳琅满目，熠熠生辉
 * 原原本本，简简单单
 * 我们追求的不过是一张张纸罢了
-* 所拥有的不过是app的num了
+* 所拥有的不过是app的num吧
 * you think what,you get what 
 * so code code code 
 * in the best world 
